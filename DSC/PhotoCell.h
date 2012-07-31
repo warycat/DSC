@@ -1,5 +1,5 @@
 //
-//  MainViewController.h
+//  PhotoCell.h
 //  DSC
 //
 //  Created by Larry on 7/31/12.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MainViewController : UITableViewController
+@interface PhotoCell : UITableViewCell
 
 @end
