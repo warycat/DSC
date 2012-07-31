@@ -17,7 +17,6 @@
 		25362D6B15C766AD008FBBEA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25362D6915C766AD008FBBEA /* MainStoryboard.storyboard */; };
 		25362D6E15C766AE008FBBEA /* DSC.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 25362D6C15C766AD008FBBEA /* DSC.xcdatamodeld */; };
 		25362D7115C766AE008FBBEA /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25362D7015C766AE008FBBEA /* MainViewController.m */; };
-		25362D7415C766AE008FBBEA /* FlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25362D7315C766AE008FBBEA /* FlipsideViewController.m */; };
 		25362D7C15C766AE008FBBEA /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25362D7B15C766AE008FBBEA /* SenTestingKit.framework */; };
 		25362D7D15C766AE008FBBEA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25362D5515C766AD008FBBEA /* UIKit.framework */; };
 		25362D7E15C766AE008FBBEA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25362D5715C766AD008FBBEA /* Foundation.framework */; };
@@ -52,8 +51,6 @@
 		25362D6D15C766AD008FBBEA /* DSC.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DSC.xcdatamodel; sourceTree = "<group>"; };
 		25362D6F15C766AE008FBBEA /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		25362D7015C766AE008FBBEA /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
-		25362D7215C766AE008FBBEA /* FlipsideViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlipsideViewController.h; sourceTree = "<group>"; };
-		25362D7315C766AE008FBBEA /* FlipsideViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlipsideViewController.m; sourceTree = "<group>"; };
 		25362D7A15C766AE008FBBEA /* DSCTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DSCTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25362D7B15C766AE008FBBEA /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		25362D8415C766AE008FBBEA /* DSCTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DSCTests-Info.plist"; sourceTree = "<group>"; };
@@ -127,8 +124,6 @@
 				25362D6915C766AD008FBBEA /* MainStoryboard.storyboard */,
 				25362D6F15C766AE008FBBEA /* MainViewController.h */,
 				25362D7015C766AE008FBBEA /* MainViewController.m */,
-				25362D7215C766AE008FBBEA /* FlipsideViewController.h */,
-				25362D7315C766AE008FBBEA /* FlipsideViewController.m */,
 				25362D6C15C766AD008FBBEA /* DSC.xcdatamodeld */,
 				25362D5E15C766AD008FBBEA /* Supporting Files */,
 			);
@@ -276,7 +271,6 @@
 				25362D6815C766AD008FBBEA /* AppDelegate.m in Sources */,
 				25362D6E15C766AE008FBBEA /* DSC.xcdatamodeld in Sources */,
 				25362D7115C766AE008FBBEA /* MainViewController.m in Sources */,
-				25362D7415C766AE008FBBEA /* FlipsideViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
